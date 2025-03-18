@@ -1,0 +1,15 @@
+*   ae91c71 Merge branch '9-find-the-highest-priority-unfinished-task' Merge the third branchi
+|\  
+| * 520f5a6 Implemented getMostUrgentTasks() method
+* |   cff0080 Merge pull request #11 from mihajlovb/1-remove-a-task-by-name
+|\ \  
+| * | 815bbc7 Implement sort tasks by priority
+| |/  
+* |   ee91c21 Merge pull request #10 from mihajlovb/2-find-all-completed-tasks
+|\ \  
+| |/  
+|/|   
+| * c249e4d implement getCompletedTasks
+|/  
+* b24eddc Add starter code
+* 4afd512 Initial commit
